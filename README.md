@@ -20,6 +20,7 @@ In my github, you can find the projects we do in Holberton School and my personn
 ### Languages
 
 ![](https://img.shields.io/badge/Language-C-informational?style=plastic&logo=C&logoColor0a83f4&color=blue)
+![](https://img.shields.io/badge/Language-Python-informational?style=plastic&logo=python&logoColor0a83f4&color=blue)
 
 ### Operating system
 
