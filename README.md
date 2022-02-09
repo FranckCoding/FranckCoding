@@ -7,7 +7,7 @@ In my github, you can find the projects we do in Holberton School and my personn
 
 ## GitHub Stats
 
-<div align="center">
+<div>
 
 <img width="430" src="https://github-readme-stats.vercel.app/api?username=falendrac&theme=dark&show_icons=true&hide=stars" />
 
@@ -31,7 +31,6 @@ In my github, you can find the projects we do in Holberton School and my personn
 
 <div align ="center>
 
-<a href="https://twitter.com/FKLeger"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /> </a>
 <a href="https://www.linkedin.com/in/franck-leger-430213210/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
 
 <div />
