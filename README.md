@@ -8,8 +8,9 @@ In my github, you can find the projects we do in Holberton School and my personn
 ## GitHub Stats
 
 <p align="center">
-<td><img width="430" src="https://github-readme-stats.vercel.app/api?username=falendrac&theme=dark&show_icons=true&hide=stars" /></td>
-<td><img width="315" src="https://github-readme-stats.vercel.app/api/top-langs/?username=falendrac&langs_count=8&theme=dark&show_icons=true&hide=stars" /></td>
+<img width="430" src="https://github-readme-stats.vercel.app/api?username=falendrac&theme=dark&show_icons=true&hide=stars" />
+</br>
+<img width="315" src="https://github-readme-stats.vercel.app/api/top-langs/?username=falendrac&langs_count=8&theme=dark&show_icons=true&hide=stars" />
 </p>
 
 ## Technologies & tools
@@ -31,6 +32,6 @@ In my github, you can find the projects we do in Holberton School and my personn
 
 ## Social media
 
-<p align="center">
+<p>
 <a href="https://www.linkedin.com/in/franck-leger-430213210/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
 </p>
