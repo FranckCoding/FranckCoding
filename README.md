@@ -1,9 +1,11 @@
 # Hello everyonne ! :raising_hand_man:
 
-Welcome to my github profile ! My name is Franck LÉGER and i'm student at Holberton School to become a software engineer.
-I'm from France, living in Amiens.
-For my project in Holberton School, i want to do the AR/VR specialisation.
-In my github, you can find the projects we do in Holberton School and my personnal projects.
+Welcome to my github profile ! My name is Franck LÉGER and i'm Software Engineer at Holberton School.
+I'm from France, living in Thonon-Les-Bains.
+
+I help new student at Holberton School to learn the concepts see at Holberton !
+
+I'm currently learning C++ for a future project of video game.
 
 ## GitHub Stats
 
@@ -18,6 +20,8 @@ In my github, you can find the projects we do in Holberton School and my personn
 ### Languages
 
 ![](https://img.shields.io/badge/Language-C-informational?style=plastic&logo=C&logoColor0a83f4&color=blue)
+![](https://img.shields.io/badge/Language-C++-informational?style=plastic&logo=Cplusplus&logoColor0a83f4&color=blue)
+![](https://img.shields.io/badge/Language-Csharp-informational?style=plastic&logo=Csharp&logoColor0a83f4&color=blue)
 ![](https://img.shields.io/badge/Language-Python-informational?style=plastic&logo=python&logoColor0a83f4&color=blue)
 
 ### Operating system
@@ -28,7 +32,13 @@ In my github, you can find the projects we do in Holberton School and my personn
 ### Tools
 
 ![](https://img.shields.io/badge/Tool-VSCode-informational?style=plastic&logo=visualstudio&logoColor0a83f4&color=green)
-![](https://img.shields.io/badge/Tool-Vagrant-informational?style=plastic&logo=Vagrant&logoColor0a83f4&color=green)
+![](https://img.shields.io/badge/Tool-Docker-informational?style=plastic&logo=Docker&logoColor0a83f4&color=green)
+![](https://img.shields.io/badge/Tool-Unity-informational?style=plastic&logo=Unity&logoColor0a83f4&color=green)
+![](https://img.shields.io/badge/Tool-UnrealEngine-informational?style=plastic&logo=UnrealEngine&logoColor0a83f4&color=green)
+
+### Databases
+
+![](https://img.shields.io/badge/DB-MySQL-informational?style=plastic&logo=Mysql&logoColor4479A1&color=yellow)
 
 ## Social media
 
