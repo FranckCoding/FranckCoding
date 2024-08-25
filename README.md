@@ -1,18 +1,16 @@
 # Hello everyonne ! :raising_hand_man:
 
-Welcome to my github profile ! My name is Franck LÉGER and i'm Software Engineer at Holberton School.
+Welcome to my github profile ! My name is Franck LÉGER and i'm Software Developper.
 I'm from France, living in Thonon-Les-Bains.
 
-I help new student at Holberton School to learn the concepts see at Holberton !
-
-I'm currently learning C++ for a future project of video game.
+I have the professionnel ambition to become a COBOL Developer and reinforce my C skills.
 
 ## GitHub Stats
 
 <p align="center">
-<img width="430" src="https://github-readme-stats.vercel.app/api?username=falendrac&theme=dark&show_icons=true&hide=stars" />
+<img width="430" src="https://github-readme-stats.vercel.app/api?username=franckcoding&theme=dark&show_icons=true&hide=stars" />
 </br>
-<img width="315" src="https://github-readme-stats.vercel.app/api/top-langs/?username=falendrac&langs_count=8&theme=dark&show_icons=true&hide=stars" />
+<img width="315" src="https://github-readme-stats.vercel.app/api/top-langs/?username=franckcoding&langs_count=8&theme=dark&show_icons=true&hide=stars" />
 </p>
 
 ## Technologies & tools
